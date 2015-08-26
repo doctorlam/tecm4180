@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="schedule.xsl" type="text/xsl" ?>
+<schedule>
+	<class>
+		<week id="week1">Week 1</week>
+		<date>August 24</date>
+		<learning-objective>
+			<objective>Students will know the difference betwen TECM 4180 and TECM 2700</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Introductions</activity>
+			<activity>Initial course survey/poll</activity>
+			<activity>Syllabus and course review</activity>
+			<activity>Discuss project 1</activity>
+		</class-activities>
+		<readings>
+			<article>New readings for today</article>
+		</readings>
+		<assignments>
+			<homework>No homework for today</homework>
+		</assignments>
+	</class>
+	<class>
+	<week id="week1">Week 1</week>
+		<date>August 26</date>
+		<learning-objective>
+			<objective>Students will define a knowledge base.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Knowledge base lesson and activity</activity>
+			<activity>Get into groups for project 1</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>Build a knowledge base that streamlines your support operations</description>
+			<url>http://www.techrepublic.com/article/build-a-knowledge-base-that-streamlines-your-support-operations/</url>
+			</article_url>
+			<article_url><description>Building, Maintaining, and Using Knowledge Bases: A Report from the Trenches</description>
+			<url>http://pages.cs.wisc.edu/~anhai/papers/kcs-sigmod13.pdf</url>
+			</article_url>
+
+		</readings>
+		<assignments>
+			<homework>Describe three positive aspects and three negative aspects of 3 examples of knowledge bases you found during an internet search. Upload to Blackboard.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 2</week>
+		<date>August 31</date>
+		<learning-objective>
+			<objective>Students will know how to conduct interviews and identify samples.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Interview research lesson and activity.</activity>
+		
+		</class-activities>
+		<readings>
+			<article_url><description>Interview as a method for qualitative research (YouTube Video)</description>
+			<url>https://www.youtube.com/watch?v=hNNKCD2f4qw</url>
+			</article_url>
+			<article>Anderson Chapter 6 and 7</article>
+		</readings>
+		<assignments>
+			<homework>Chapter summary for Anderson 6 and 7</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 2</week>
+		<date>September 2</date>
+		<learning-objective>
+			<objective>Students will identify participants for their interviews.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Interviews and drawing conclusions.</activity>
+		</class-activities>
+		<readings>
+			<article>Anderson Chapter 3 and 4</article>
+		</readings>
+		<assignments>
+			<homework>Prepare preliminary list of interview questions and potential participants. Upload to Blackboard</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 3</week>
+		<date>September 9</date>
+		<learning-objective>
+			<objective>Students will know the difference between data, information, and knowledge.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Data, information, and knowledge lesson and activity.</activity>
+		
+		</class-activities>
+		<readings>
+			<article_url><description>The differences between data, information, and knowledge (online article)</description><url>http://www.infogineering.net/data-information-knowledge.htm</url></article_url>
+			<article_url><description>Data, Information, Knowledge, and Wisdom (online article)</description><url>http://otec.uoregon.edu/data-wisdom.htm</url></article_url>
+		</readings>
+		<assignments>
+			<homework>Continue working project 1</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 4</week>
+		<date>September 14</date>
+		<learning-objective>
+			<objective>Students will understand the principles of information architecture and information design.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Information architecture and information design lesson and activity</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>Understanding Information Architecture
+			 (online presentation)</description>
+			 	<url>https://prezi.com/aafmvya6bk7t/understanding-information-architecture/</url>
+			 </article_url>
+			<article_url><description>Information Architecture Basics
+			 (online article)</description>
+			 	<url>http://www.usability.gov/what-and-why/information-architecture.html</url>
+			 </article_url>
+		</readings>
+		<assignments>
+			<homework>Study for Quiz 1</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 4</week>
+		<date>September 16</date>
+		<learning-objective>
+			<objective>Students will understand the principles of writing for online mediums.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Finish IA and navigation activities</activity>
+			<activity>Writing for online mediums lesson and activity</activity>
+		</class-activities>
+		<readings>
+			<article>Anderson chapter 8, 9, 10, and 28</article>
+		</readings>
+		<assignments>
+			<homework>Writing for conciseness homework. Upload to Blackboard</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 5</week>
+		<date>September 21</date>
+		<learning-objective>
+			<objective>Students will learn to write introductions and conclusions that are appropriate for knowledge bases.</objective>
+			<objective>Students will identify a plan for authoring and managing their knowledge base online.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Online authoring options</activity>
+		</class-activities>
+		<readings>
+			<article>Anderson Chapter 11 and 12</article>
+		</readings>
+		<assignments>
+			<homework>Analyze 5 intro/conclusions from KBs</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 5</week>
+		<date>September 23</date>
+		<learning-objective>
+			<objective>Students will understand the principles of the content lifecycle.</objective>
+			
+		</learning-objective>
+		<class-activities>
+			<activity>Content lifecyle lesson and activity.</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>Understanding the content lifecycle (online presentation)</description><url>http://www.slideshare.net/hilarymarsh/content-lifecycle</url>
+		</article_url>
+		<article_url><description>Term of the week: Content Lifecylce (audio file--listen to it!)</description>
+			<url>http://www.thelanguageofcontentstrategy.com/2014/03/term-of-the-week:-content-lifecycle#.VdeDcbTq4qg</url>
+		</article_url>
+		</readings>
+		<assignments>
+			<homework>Continue working on project 1</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 6</week>
+		<date>September 28</date>
+		<learning-objective>
+			<objective>Adjustment day depending on where everyone is.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>TBA</activity>
+		</class-activities>
+		<readings>
+			<article>No new readings today!</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 6</week>
+		<date>September 30</date>
+		<learning-objective>
+			<objective>Students will complete their first projects</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Workshop (attendance mandatory)</activity>
+		</class-activities>
+		<readings>
+			<article>No new readings today!</article>
+		</readings>
+		<assignments>
+			<homework>No homework</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 7</week>
+		<date>October 5</date>
+		<learning-objective>
+			<objective>Students will know the principles of visual design.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Visual design lesson and activity.</activity>
+			<activity>Inforgrahpic analysis activity.</activity>
+		</class-activities>
+		<readings>
+			<article>Anderson Chapter 14</article>
+		</readings>
+		<assignments>
+			<homework>Project 1 - Knowledge base due. Upload to Blackboard. Both teammates must upload.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 7</week>
+		<date>October 7</date>
+		<learning-objective>
+			<objective>Students will differentiate different types of graphical content.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Graphic content lesson and activity.</activity>
+		</class-activities>
+		<readings>
+			<article>Anderson chapter 15</article>
+		</readings>
+		<assignments>
+			<homework>Come to class with at least 3 inforgraphic ideas. Identify data sources for each idea. Upload to Blackboard.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 8</week>
+		<date>October 12</date>
+		<learning-objective>
+			<objective>Students will know how to tell a compelling story using visual content.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Storytelling with visuals</activity>
+			<activity>Storytelling analysis.</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>How to Create Stunning Infographics in 30 Minutes or Less</description>
+				<url>http://www.lifehack.org/articles/work/how-to-create-stunning-infographics-in-30-minutes.html</url>
+			</article_url>
+			<article_url><description>Using Storytelling to Engage and Persuade (Infographic)</description>
+				<url>https://blog.kissmetrics.com/storytelling-engage-persuade/</url>
+			</article_url>
+			<article_url><description>HOW TO STRUCTURE A GOOD STORY FOR YOUR INFOGRAPHIC (Online article)</description>
+				<url>http://piktochart.com/structuring-a-story-for-your-infographic/</url>
+
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Inforgraphic story analysis. Upload to Blackboard</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 8</week>
+		<date>October 14</date>
+		<learning-objective>
+			<objective>Adjust day--TBA</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>TBA depending on adjustment day</activity>
+		</class-activities>
+		<readings>
+			<article>No new readings today</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 9</week>
+		<date>October 19</date>
+		<learning-objective>
+			<objective>No new content today</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Workshop for inforgraphic project.</activity>
+		</class-activities>
+		<readings>
+			<article>No new readings today</article>
+		</readings>
+		<assignments>
+			<homework>Study for Quiz 2</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 9</week>
+		<date>October 21</date>
+		<learning-objective>
+			<objective>Students will understand the various sub-genres of the video tutorial.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Video tutorial lesson and activity.</activity>
+			<activity>Video tutorial analysis</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>New Modes of Help: Best Practices for Instructional Video</description>
+				<url>http://courses.christopherylam.com/4180/readings/swarts.pdf</url>
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Project 2 due before class. Upload to Blackboard.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 10</week>
+		<date>October 26</date>
+		<learning-objective>
+			<objective>Students will be able to complete the planning phase of a video tutorial.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Video tutorial planning lesson and activity</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>Video tutorial analysis. Upload to Blackboard</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 10</week>
+		<date>October 28</date>
+		<learning-objective>
+			<objective>Students will identify compelling video tutorial topics</objective>
+			
+		</learning-objective>
+		<class-activities>
+			<activity>Video tutorial topic selection lesson and activity</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+
+		</readings>
+		<assignments>
+			<homework>Come to class with at least 3 viable video tutorial topic ideas. Upload to Blackboard.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 11</week>
+		<date>November 2</date>
+		<learning-objective>
+			<objective>Students will be able to segment and chunk video content.</objective>
+
+		</learning-objective>
+		<class-activities>
+			<activity>Chunking and segmentation in video tutorials.</activity>
+		</class-activities>
+		<readings>
+			<article_url>
+				<description>Chunking Information for Instructional Design</description>
+				<url>http://theelearningcoach.com/elearning_design/chunking-information/</url>
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Continue working on project 3</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 11</week>
+		<date>November 4</date>
+		<learning-objective>
+			<objective>Students will know how to use tools for post-production of video tutorials.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Post production lesson and activity.</activity>
+		
+		</class-activities>
+		<readings>
+			<article_url><description>The Basics of Video Editing: The Complete Guide</description>
+				<url>http://lifehacker.com/5785558/the-basics-of-video-editing-the-complete-guide</url>
+			</article_url>
+			<article_url><description>No Hollywood budget, no problem: 5 best free video editing programs</description>
+			<url>http://www.digitaltrends.com/computing/best-free-video-editing-software/</url>
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Come to class with an editing software selected.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 12</week>
+		<date>November 9</date>
+		<learning-objective>
+			<objective>Students will be introduced to user testing.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>User testing lesson and activity</activity>
+		
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 12</week>
+		<date>November 11</date>
+		<learning-objective>
+			<objective>Students will conduct a task analysis and create task overviews.</objective>
+			<objective>Students will learn the method of usability testing</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Usability lesson and activity</activity>
+		</class-activities>
+		<readings>
+			<article>Anderson Chapter 21</article>
+		</readings>
+		<assignments>
+			<homework>Project 3 due before class. Upload to Blackboard.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 13</week>
+		<date>November 16</date>
+		<learning-objective>
+			<objective>Students will learn the format of an empirical report.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Empirical report lesson and activity.</activity>
+		</class-activities>
+		<readings>
+			<article>Anderson Chapter 25</article>
+		</readings>
+		<assignments>
+			<homework>Study for Quiz 3</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 13</week>
+		<date>November 18</date>
+		<learning-objective>
+			<objective>TBA depending on Client</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>TBA depending on Client</activity>
+		</class-activities>
+		<readings>
+			<article>TBA depending on Client</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 14</week>
+		<date>November 23</date>
+		<learning-objective>
+			<objective>TBA depending on Client</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>TBA depending on Client</activity>
+		</class-activities>
+		<readings>
+			<article>TBA depending on Client</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+
+		</assignments>
+	</class>
+	<class>
+		<week>Week 14</week>
+		<date>November 25</date>
+		<learning-objective>
+			<objective>TBA depending on Client</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>TBA depending on Client</activity>
+		</class-activities>
+		<readings>
+			<article>TBA depending on Client</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+
+		</assignments>
+	</class>
+	<class>
+		<week>Week 15</week>
+		<date>November 30</date>
+		<learning-objective>
+			<objective>TBA depending on Client</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>TBA depending on Client</activity>
+		</class-activities>
+		<readings>
+			<article>TBA depending on Client</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+
+		</assignments>
+	</class>
+	<class>
+		<week>Week 15</week>
+		<date>December 2</date>
+		<learning-objective>
+			<objective>TBA depending on Client</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>TBA depending on Client</activity>
+		</class-activities>
+		<readings>
+			<article>TBA depending on Client</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+
+		</assignments>
+	</class>
+
+	<class>
+		<week>Week 16 (Finals week)</week>
+		<date>December 7</date>
+		<learning-objective>
+			<objective>No new content this week.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Workshop- Attendance required</activity>
+			<activity>Course Evaluation</activity>
+		</class-activities>
+		<readings>
+			<article>No New Readings</article>
+		</readings>
+		<assignments>
+			<homework>Final project due on date of final</homework>
+		</assignments>
+	</class>
+	
+</schedule>

@@ -1,0 +1,378 @@
+/* Global Styles */
+body {
+	background-color: #333333;
+}
+#container {
+	margin: 15px;
+}
+p.schedule {
+	font-size:16px;
+	color: #FFF6ED;
+	font-family: 'Open Sans', sans-serif;
+	margin-top:50px;
+}
+.schedule a:visited, a {
+	color: #c0392b;
+}
+header {
+	color:white;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+header h1 a {
+	color:white;
+	text-decoration: none;
+}
+header h1 a:visited {
+	color:white;
+	text-decoration: none;
+}
+header ul {
+	list-style: none;
+	padding: 0;
+	font-size:14px;
+	font-family: 'Open Sans', sans serif;	
+
+}
+header ul li {
+	margin-bottom: 0;
+	padding: 0;
+	margin-left: 0;
+	color: white;
+	font-size: 14px;
+
+}
+header h2 {
+
+	font-size:16px;
+	border-bottom: none;
+	margin-top:-20px;
+	padding-bottom:20px;
+	border-top:none;
+	font-family: 'Open Sans', sans serif;
+	font-size: 14px;
+	
+}
+h2 {
+	color:white;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 24px;
+	border-bottom: 1px #336ca6 dotted;
+}
+h4 {
+	color: #FFF6ED;
+	margin-left: 20px;
+	font-family: 'Bitter', serif;
+	font-size: 18px;
+	border-bottom: 1px dotted white;
+	margin-bottom: -10px;
+}
+
+/* Navigation Bar */
+nav {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color:white;
+	margin-top:2.5em;
+}
+nav ul li{
+	display: inline;
+	font-size:18px;
+	margin-right: 3em;
+
+}
+nav ul li a {
+	text-decoration: none;
+	color: white;
+	padding: 10px 10px 22px 10px;
+}
+
+nav ul li a:visited {
+	color:white;
+}
+
+.current a, .current_schedule a {
+	background: #c0392b; /* TO ADAPT SITE: Use Darker Color Here */
+
+}
+
+/* Main Content Area */
+
+/* Right Column for "Resources" Page */
+
+.right-column {
+	width: 29%;
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 20px;
+	background: #e74c3c;
+	float: right;
+	right: 15px;
+	position: fixed;
+
+}
+
+.main-content {
+	float:left;
+	width: 68%;
+	background-color:#e74c3c; /* TO ADAPT SITE: Use lighter Color Here */
+	font-family: 'Open Sans', sans-serif;
+	min-height: 400px;
+	padding-bottom: 20px;
+	color: #FFF6ED;
+	font-size: 14px;
+
+}
+.right-column h3 {
+	background:#c0392b; /* TO ADAPT SITE: Use Darker Color Here */
+	color:white;
+	font-size: 15px;
+	font-weight: normal;
+	font-family: 'Bitter', serif;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	margin-top: -5px;
+}
+.main-content h3 {
+	background:#c0392b; /* TO ADAPT SITE: Use Darker Color Here */
+	color:white;
+	font-size: 18px;
+	font-weight: normal;
+	font-family: 'Bitter', serif;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	margin-top: -5px;
+
+}
+.main-content p {
+	font-size:14px;
+	color: #FFF6ED;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.4;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.right-column p {
+	font-size: 12px;
+}
+.main-content ul li, .schedule ul li {
+	font-size: 14px;
+	font-family: 'Open Sans'; 
+	margin-top: 14px;
+	color: #FFF6ED;
+	line-height:1.4;
+	list-style-type: square;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.right-column ul {
+	margin-top: -12px;
+}
+.right-column ul li {
+	font-size: 13px;
+	font-family: 'Open Sans'; 
+	margin-bottom: 6px;
+	color: #FFF6ED;
+	list-style-type: square;
+}
+.main-content ol li {
+	margin-top: 16px;
+	line-height:1.4;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.main-content ul li ul li, .main-content ol li ul li, .right-column ul li ul li, .right-column ol li ul li  {
+	margin-left: 0px;
+}
+.main-content ul li ol li, .right-column ul li ol li {
+	margin-left: 0px;
+	list-style-type: decimal;
+	}
+.main-content ul li a, .right-column ul li a {
+	color: #FFF6ED;
+	text-decoration: underline;
+}
+.main-resources a.reading_link, .right-column a, .main-schedule a {
+	color: #FFF6ED;
+	text-decoration: underline;
+}
+/* Table Styles */
+
+table { 
+		border-collapse: collapse; 
+		font-family: 'Open Sans', sans serif;
+        background: #e74c3c; /* TO ADAPT SITE: Use lighter Color Here */
+        font-size: 14px;
+        color: white;
+	}
+table ul li {
+	margin-bottom: 12px;
+	list-style-type:square;
+}
+
+td.narrow {
+	width: 5%;
+	text-align: center;
+}
+td.medium {
+	width: 15%;
+}
+td.wide {
+	width: 15%;
+}
+/* Zebra striping */
+	tr:nth-of-type(odd) { 
+		background: #c0392b; /* TO ADAPT SITE: Use Darker Color Here */
+	}
+	
+	th { 
+		background: #c0392b; /* TO ADAPT SITE: Use Darker Color Here */
+		color: white; 
+		font-weight: normal;
+		font-size: 14px;
+		font-family:'Bitter', serif;
+		padding: 1em;
+		text-align: center;
+	}
+
+
+
+
+/* Responsive Layouts */
+	@media only screen and (max-width: 1375px) {
+		.current_schedule a {
+			background: #e74c3c;
+		}
+		
+		
+		/* Force table to not be like tables anymore */
+		table, thead, tbody, th, td, tr { 
+			display: block; 
+			font-size: 14px;
+
+		}
+		table ul li {
+			font-size: 14px;
+			padding-bottom:8px;
+		}
+
+		/* Hide table headers (but not display: none;, for accessibility) */
+		th { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+		}
+		
+		tr { 
+			border-bottom: 1px solid #e74c3c;
+		}
+
+		td { 
+			/* Behave  like a "row" */
+			border: none;
+			border-bottom: 1px dotted #FFF6ED; 
+			position: relative;
+			padding-left: 40%; 
+		}
+		td.narrow {
+			text-align:left;
+			padding-bottom: 5px;
+		}
+		
+		td:before { 
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			top:6px;
+			left: 6px;
+			width: 45%; 
+			white-space: nowrap;
+		}
+		td.wide, td.medium, td.narrow {
+			width: 50%;
+		}
+		td.narrow {
+			font-weight: bold;
+			font-size: 16px;
+			font-family: 'Bitter', sans-serif;
+		}
+
+		table ul{
+			width: 100%;
+			margin-top:-3px;
+		}
+		.main-content table ul li {
+			margin-left: -2em;
+			width: 100%;
+			margin-top: 8px;
+		}
+	
+		/*
+		Label the data
+		*/
+		td:nth-of-type(1):before { content: "Week"; }
+		td:nth-of-type(2):before { content: "Date"; }
+		td:nth-of-type(3):before { content: "Objectives"; }
+		td:nth-of-type(4):before { content: "Activties"; }
+		td:nth-of-type(5):before { content: "Read"; }
+		td:nth-of-type(6):before { content: "Homework"; }
+
+		.lab td:nth-of-type(1):before { content: "Week"; }
+		.lab td:nth-of-type(2):before { content: "Date"; }
+		.lab td:nth-of-type(3):before { content: "Activties"; }
+		.lab td:nth-of-type(4):before { content: "Read or Watch"; }
+		.lab td:nth-of-type(5):before { content: "Homework"; }
+	}
+
+	@media only screen and (max-width: 850px) {
+		table ul li {
+			font-size: 14px;
+		}
+		p.schedule {
+			text-align:center;
+		}
+		header {
+			text-align: center;
+		}
+		.main-content{
+			float:none;
+			width: 100%;
+			min-height: 0px;
+			padding-bottom: 20px;
+
+	}
+		.right-column {
+			float:none;
+			width: 100%;
+			padding-bottom: 10px;
+			position: relative;
+			right: 0px;
+			border-bottom: 10px solid #c0392b;
+	}	
+	.right-column ul li {
+		font-size: 14px;
+	}
+	.right-column h3 {
+		font-size: 18px;
+	}
+	#container {
+		margin: 0;
+	}
+
+		nav ul li a {
+			text-decoration: none;
+			color: white;
+			padding:10px;
+		}
+		
+		nav ul li{
+
+				display: block;		
+				text-align: center;		
+				padding: 7px;
+			}	
+}
+
