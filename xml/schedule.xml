@@ -271,13 +271,15 @@
 		<week>Week 8</week>
 		<date>October 14</date>
 		<learning-objective>
-			<objective>Adjust day--TBA</objective>
+			<objective>Crafting your stories</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>TBA depending on adjustment day</activity>
+			<activity>Work on crafting stories</activity>
 		</class-activities>
 		<readings>
-			<article>No new readings today</article>
+			<article_url><description>Narrative Visualization: Telling Stories with Data</description>
+				<url>http://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf</url>
+			</article_url>
 		</readings>
 		<assignments>
 			<homework>TBA</homework>
