@@ -310,8 +310,7 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Quiz 2</activity>
-			<activity>Video tutorial lesson and activity.</activity>
-			<activity>Video tutorial analysis</activity>
+			<activity>Work on inforgraphics</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>New Modes of Help: Best Practices for Instructional Video</description>
@@ -329,11 +328,14 @@
 			<objective>Students will be able to complete the planning phase of a video tutorial.</objective>
 		</learning-objective>
 		<class-activities>
+			<activity>Introudction to Project 3</activity>
+			<activity>Video tutorial analysis</activity>
 			<activity>Video tutorial planning lesson and activity</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
-		</readings>
+<article_url><description>New Modes of Help: Best Practices for Instructional Video</description>
+				<url>http://courses.christopherylam.com/4180/readings/swarts.pdf</url>
+			</article_url>		</readings>
 		<assignments>
 			<homework>Project 2 due before class. Upload to Blackboard.</homework>
 		</assignments>
