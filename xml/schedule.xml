@@ -326,11 +326,12 @@
 		<date>October 26</date>
 		<learning-objective>
 			<objective>Students will be able to complete the planning phase of a video tutorial.</objective>
+			<objective>Students will identify compelling video tutorial topics</objective>
 		</learning-objective>
 		<class-activities>
 			<activity>Introudction to Project 3</activity>
-			<activity>Video tutorial analysis</activity>
-			<activity>Video tutorial planning lesson and activity</activity>
+			<activity>Get into groups</activity>
+			<activity>Video tutorial brainstorming activity</activity>
 		</class-activities>
 		<readings>
 <article_url><description>New Modes of Help: Best Practices for Instructional Video</description>
@@ -344,15 +345,17 @@
 		<week>Week 10</week>
 		<date>October 28</date>
 		<learning-objective>
-			<objective>Students will identify compelling video tutorial topics</objective>
+			<objective>Students will know the best practices of creating a video tutuorial</objective>
 			
 		</learning-objective>
 		<class-activities>
-			<activity>Video tutorial topic selection lesson and activity</activity>
+			<activity>Video tutorial analysis</activity>
+			<activity>Video tutorial best practices</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
-
+			<article_url><description>New Modes of Help: Best Practices for Instructional Video</description>
+				<url>http://courses.christopherylam.com/4180/readings/swarts.pdf</url>
+			</article_url>
 		</readings>
 		<assignments>
 			<homework>Come to class with at least 3 viable video tutorial topic ideas. Upload to Blackboard.</homework>
@@ -366,7 +369,7 @@
 
 		</learning-objective>
 		<class-activities>
-			<activity>Chunking and segmentation in video tutorials.</activity>
+			<activity>Mayer's CTML (Chunking and segmentation in video tutorials)</activity>
 		</class-activities>
 		<readings>
 			<article_url>
