@@ -388,7 +388,7 @@
 			<objective>Students will know how to use tools for post-production of video tutorials.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Post production lesson and activity.</activity>
+			<activity>Video tutorial workshop</activity>
 		
 		</class-activities>
 		<readings>
@@ -414,7 +414,13 @@
 		
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article_url><description>Usability Testing 101</description>
+			<url>http://www.nngroup.com/articles/usability-101-introduction-to-usability/</url>
+		</article_url>
+		<article_url><description>Usability Testing Video</description>
+			<url>https://www.youtube.com/watch?v=3yWourFbaug</url>
+		</article_url>
+
 		</readings>
 		<assignments>
 			<homework>TBA</homework>
@@ -428,7 +434,7 @@
 			<objective>Students will learn the method of usability testing</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Usability lesson and activity</activity>
+			<activity>Usability bootcamp</activity>
 		</class-activities>
 		<readings>
 			<article>Anderson Chapter 21</article>
