@@ -447,10 +447,13 @@
 		<week>Week 13</week>
 		<date>November 16</date>
 		<learning-objective>
-			<objective>Students will learn the format of an empirical report.</objective>
+			<objective>Students will know how to conduct a usability test</objective>
+			<objective>Students will reflect on the semester.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Empirical report lesson and activity.</activity>
+			<activity>Usability test example</activity>
+			<activity>Semester overview</activity>
+			<activity>Final reflection quiz</activity>
 		</class-activities>
 		<readings>
 			<article>Anderson Chapter 25</article>
@@ -463,49 +466,48 @@
 		<week>Week 13</week>
 		<date>November 18</date>
 		<learning-objective>
-			<objective>TBA depending on Client</objective>
+			<objective>Continue working on usablity tests</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>TBA depending on Client</activity>
+			<activity>Workshop time for Usability</activity>
 		</class-activities>
 		<readings>
-			<article>TBA depending on Client</article>
+			<article>Nothing new</article>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
+			<homework>You should have at least 1 usability test completed by now.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 14</week>
 		<date>November 23</date>
 		<learning-objective>
-			<objective>TBA depending on Client</objective>
+			<objective>Continue working on usablity tests</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>TBA depending on Client</activity>
+			<activity>Workshop time for Usability project</activity>
 		</class-activities>
 		<readings>
-			<article>TBA depending on Client</article>
+			<article>Nothing new</article>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
-
+			<homework>You should have at least all 3 usability tests completed by now. You should start developing the final report.</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 14</week>
 		<date>November 25</date>
 		<learning-objective>
-			<objective>TBA depending on Client</objective>
+			<objective>Enjoy your thanksgiving break</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>TBA depending on Client</activity>
+			<activity>Class cancelled</activity>
 		</class-activities>
 		<readings>
-			<article>TBA depending on Client</article>
+			<article>Nothing new</article>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
+			<homework>Enjoy thanksgiving</homework>
 
 		</assignments>
 	</class>
@@ -513,34 +515,32 @@
 		<week>Week 15</week>
 		<date>November 30</date>
 		<learning-objective>
-			<objective>TBA depending on Client</objective>
+			<objective>Continue working on usablity tests</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>TBA depending on Client</activity>
+			<activity>Workshop time for Usability project</activity>
 		</class-activities>
 		<readings>
-			<article>TBA depending on Client</article>
+			<article>Nothing new</article>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
-
+			<homework>Report writing time!</homework>
 		</assignments>
 	</class>
 	<class>
 		<week>Week 15</week>
 		<date>December 2</date>
 		<learning-objective>
-			<objective>TBA depending on Client</objective>
+			<objective>Continue working on usablity tests</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>TBA depending on Client</activity>
+			<activity>Workshop time for Usability</activity>
 		</class-activities>
 		<readings>
-			<article>TBA depending on Client</article>
+			<article>Nothing new</article>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
-
+			<homework>Wrap up final project</homework>
 		</assignments>
 	</class>
 
@@ -551,8 +551,7 @@
 			<objective>No new content this week.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Workshop- Attendance required</activity>
-			<activity>Course Evaluation</activity>
+			<activity>Turn in final project</activity>
 		</class-activities>
 		<readings>
 			<article>No New Readings</article>
